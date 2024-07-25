@@ -59,5 +59,6 @@
 <a href="#" target="_blank">
   <img src="svg/anhtudev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NATIT123&repo=Chat-Application&show_owner=true&theme=radical)](https://github.com/NATIT123/Chat-Application)
