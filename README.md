@@ -60,5 +60,29 @@
   <img src="svg/anhtudev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
 <br>
+<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NATIT123&repo=Chat-Application&show_owner=true&theme=radical)](https://github.com/NATIT123/Chat-Application)
+<a href="https://github.com/NATIT123/Learning-English-Application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=Learning-English-Application&theme=onedark" />
+</a>
+
+<a href="https://github.com/NATIT123/Chat-Application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NATIT123&repo=Chat-Application&show_owner=true&theme=radical" />
+</a>    
+<a href="https://github.com/NATIT123/Food-Application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=Food-Application&theme=merko" />
+</a>
+
+<a href="https://github.com/NATIT123/tvShow-Application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=tvShow-Application
+&theme=gruvbox" />
+</a>    
+<a href="https://github.com/NATIT123/News-Application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=News-Application
+&theme=dark" />
+</a>
