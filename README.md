@@ -62,7 +62,10 @@
 <br>
 <br>
 
-
+<a href="https://github.com/NATIT123/Learning-English-Application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=Learning-English-Application&theme=onedark" />
+</a>
 
 <a href="https://github.com/NATIT123/Chat-Application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
