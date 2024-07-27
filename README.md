@@ -78,12 +78,10 @@
 
 <a href="https://github.com/NATIT123/tvShow-Application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=tvShow-Application
-&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=tvShow-Application&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/NATIT123/News-Application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=News-Application
-&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NATIT123&repo=News-Application&theme=dark" />
 </a>
