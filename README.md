@@ -7,13 +7,13 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=#34A853" alt="Android logo" title="Android" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853" alt="Android logo" title="Android" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=#7F52FF" alt="Kotlin logo" title="Android" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Android" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=#02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=#0175C2" alt="Dart logo" title="Dart" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
