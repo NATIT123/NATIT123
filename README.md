@@ -7,6 +7,10 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=00ADD8" alt="go logo" title="Go" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853" alt="Android logo" title="Android" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Android" height="25" /></span>
@@ -35,7 +39,7 @@
 <br>
 <div align=center>
   <a href="#" title="anhtudev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIT123&hide=c%23,powershell,Mathematica,Ruby,C,C++,HTML,Objective-C,Objective-C++,Pug,CSS,Handlebars,CMake,Swift,PLpgSQL,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIT123&hide=c%23,powershell,Mathematica,Ruby,C,C+ +,HTML,Objective-C,Objective-C++,Pug,CSS,Handlebars,CMake,Swift,PLpgSQL,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="anhtudev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NATIT123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
