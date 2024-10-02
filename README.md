@@ -49,8 +49,7 @@
 
   <a href="#" title="anhtudev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIT123&hide=c%23,powershell,Mathematica,Ruby,C,C+ +,HTML,Objective-C,Objective-C++,Pug,CSS,Handlebars,CMake,Swift,PLpgSQL,Objective-C%2b%2blayout=compact&border_color=61dafb&hide_border=true"/>
-    </a>
-
+  </a>
 
   <a href="#" title="anhtudev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NATIT123&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
