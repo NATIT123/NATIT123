@@ -7,6 +7,10 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJs" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=00ADD8" alt="go logo" title="Go" height="25" /></span>
@@ -40,6 +44,9 @@
 <div align=center>
 
    <a href="#" title="anhtudev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIT123&hide=c%23,powershell,Mathematica,Ruby,C,C+ +,HTML,Objective-C,Objective-C++,Pug,CSS,Handlebars,CMake,Swift,PLpgSQL,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=20&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+     <a href="#" title="anhtudev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIT123&hide=c%23,powershell,Mathematica,Ruby,C,C+ +,HTML,Objective-C,Objective-C++,Pug,CSS,Handlebars,CMake,Swift,PLpgSQL,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=20&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 
